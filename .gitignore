@@ -36,7 +36,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-# Spring Boot sensitive config
-src/main/resources/application.properties
-src/main/resources/application.properties
